@@ -1,8 +1,5 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+//**API Integration Project: Utilizing React and Axios, this project seamlessly retrieves character data from the Rick and Morty API. Features include dynamic search functionality, status and gender filtering, and modularized component architecture for enhanced maintainability and scalability. Designed with clean, efficient code, it showcases expertise in front-end development, API integration, and React proficiency, demonstrating adaptability and problem-solving skills essential for modern software engineering roles. A testament to comprehensive understanding of web technologies and best practices, this project exemplifies the ability to deliver robust solutions in real-world scenarios.**//
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+//**Proyecto de Integración de API: Utilizando React y Axios, este proyecto recupera de manera fluida datos de personajes de la API de Rick and Morty. Incluye funcionalidad de búsqueda dinámica, filtrado por estado y género, y arquitectura de componentes modularizada para una mejor mantenibilidad y escalabilidad. Diseñado con código limpio y eficiente, demuestra experiencia en desarrollo front-end, integración de API y dominio de React, destacando habilidades de adaptabilidad y resolución de problemas esenciales para roles de ingeniería de software modernos. Un testimonio de comprensión completa de tecnologías web y mejores prácticas, este proyecto ejemplifica la capacidad para ofrecer soluciones robustas en escenarios del mundo real.**//
