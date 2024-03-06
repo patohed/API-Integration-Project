@@ -10,6 +10,6 @@ npm run dev
 
 
 
-🚀 Thank you for your interest in my projects! 🚀
-      🚀 I appreciate your support. 🚀
+🚀 Thank you for your interest in my projects! 🚀<br>
+      🚀 I appreciate your support. 🚀<br>
 🚀Stay tuned for more content as I continue to progress in the world of web development. 🚀
